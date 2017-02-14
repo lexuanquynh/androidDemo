@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialDemo</string>
+    <string name="drawer_title1">Моя библиотека</string>
+    <string name="drawer_title2">Добавить книгу</string>
+    <string name="drawer_title3">Настройки</string>
+    <string name="drawer_title4">Оценить ридер</string>
+    <string name="drawer_title5">Поделиться</string>
+</resources>
